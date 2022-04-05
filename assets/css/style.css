@@ -1,0 +1,15 @@
+.header-big{
+  background-color: #463a8c;
+  color: white;
+  text-align: center;
+  font: bold 24px sans-serif;
+ }
+ .header-small{
+  color:#3a1895;
+  text-transform: uppercase;
+  text-align: center;
+ }
+ .all-paragraph{
+  color:#4a4cac;
+  text-indent: 1em;
+ }
